@@ -1,1 +1,1 @@
-web: gunicorn MA 705 Project Dash1:server
+web: gunicorn MA 705_Project_Dash1:server
