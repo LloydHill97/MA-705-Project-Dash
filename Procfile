@@ -1,1 +1,1 @@
-web: gunicorn boston_universities:server
+web: gunicorn MA 705 Project Dash1:server
